@@ -1,0 +1,21 @@
+Country,
+Case Type,
+Specific Case type,
+Level of officer,
+Type of assets,
+type of judgment,
+amount recovered,
+level of officers,
+sector,
+time taken(duration) -
+    --start
+    -- date of judgement
+plea,
+resolution,
+gender
+
+
+
+Chart on duration vs sector
+chart on duration vs level 
+chart on duration plea
